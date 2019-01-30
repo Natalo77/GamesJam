@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 22c8fcf3ce9632a49b46798e154ccdd3
+timeCreated: 1547049349
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - torchPrefab: {fileID: 108189179867184042, guid: cd5f90c9e800a884bbc6eea177952da0,
+      type: 2}
+  - lanternPrefab: {fileID: 108795869951343912, guid: 667380ce282106943af53b60cbb31ece,
+      type: 2}
+  - flashlightPrefab: {fileID: 108350690520953202, guid: 64d26f8d4cdda074d9e38d7b0e4dea9e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
